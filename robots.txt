@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reviews.leefuhr.com/cable-management-picks/sitemap.xml
